@@ -49,7 +49,7 @@ Dockerized messaging app with CI/CD automation using Jenkins.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nisrinemazouzi00&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nisrinemazouzi00&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
